@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">全民TV</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="flush_title">"&#160;""&#160;""&#160;""&#160;""&#160;""&#160;""&#160;""&#032;"""&#032;"""&#032;"穿越茫茫人海\n寻找属于我们的那一份宁静</string>
+    <string name="action_settings">主题模式</string>
+</resources>
